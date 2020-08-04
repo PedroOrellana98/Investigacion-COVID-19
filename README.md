@@ -1,2 +1,2 @@
-# Investigacion COVID-19
- Proyecto de investigacion estadistico sobre el virus actual covid-19
+# Investigación COVID-19
+ Proyecto de investigación estadístico sobre el virus actual covid-19

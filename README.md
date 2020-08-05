@@ -1,23 +1,24 @@
 # Investigación COVID-19
  Proyecto de investigación estadístico sobre el virus actual covid-19
-$$Estadisticas\ para\ las\ ciencias\ de\ la\ computacion$$
+ Estadisticas\ para\ las\ ciencias\ de\ la\ computacion
+
 <img src="https://www.pequeciencia.ups.edu.ec/imgcontenidos/2-3_Logo%20UPS.png" alt="UPS" width = 500px>
 
-$Integrantes:$ Pedro Orellana Jaramillo, David Cornejo Bravo
+Integrantes: Pedro Orellana Jaramillo, David Cornejo Bravo
 
-$Tema:$ ANÁLISIS DE DATOS MEDIANTE ANÁLISIS MULTIVARIANTE Y PRINICPIOS DE APRENDIZAJE DE MÁQUINA
+Tema: ANÁLISIS DE DATOS MEDIANTE ANÁLISIS MULTIVARIANTE Y PRINICPIOS DE APRENDIZAJE DE MÁQUINA
 
 Actividades desarrolladas
 
-$1.$ Revisar el contenido teórico del tema
+1. Revisar el contenido teórico del tema
 
-$2.$ Profundizar los conocimientos revisando los libros guías, los enlaces contenidos en los objetos de aprendizaje y la documentación disponible en fuentes académicas en línea
+2. Profundizar los conocimientos revisando los libros guías, los enlaces contenidos en los objetos de aprendizaje y la documentación disponible en fuentes académicas en línea
 
-$3.$ Realizar el siguiente proceso:
+3. Realizar el siguiente proceso:
 
-$3.1$ Revisar los datasets y enlaces del directorio “4.DatasetsCOVID19”. Pueden conseguir otro referente a COVID19.
+3.1 Revisar los datasets y enlaces del directorio “4.DatasetsCOVID19”. Pueden conseguir otro referente a COVID19.
 
-$3.2$ Seleccionar y cargar un dataset
+3.2 Seleccionar y cargar un dataset
 
 import pandas as pd
 import numpy as np

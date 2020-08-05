@@ -1,6 +1,7 @@
 # Investigación COVID-19
  Proyecto de investigación estadístico sobre el virus actual covid-19
- Estadisticas\ para\ las\ ciencias\ de\ la\ computacion
+ 
+ Estadisticas para las ciencias de la computacion
 
 <img src="https://www.pequeciencia.ups.edu.ec/imgcontenidos/2-3_Logo%20UPS.png" alt="UPS" width = 500px>
 

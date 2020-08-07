@@ -16,19 +16,12 @@ Medida de calidad: varianza, covarianza, media, correlación.
 Método propuesto:
 
 1. Limpieza de datos usando el metodo replace
-
 2. Estandarización usando el metodo Fit Transform
-
-3.Medidas de calidad entre ellas media, varianza y correlacion de variables
-
+3. Medidas de calidad entre ellas media, varianza y correlacion de variables
 4. Agrupamiento se utilizo el metodo Group By
-
 5. Transformación de datos categóricos a numéricos (Preprocesamiento) con los procesos de StandarScaler (variables numericas) y OneHotEncoder (variables categoricas o texto)
-
 6. Reducción de dimensionalidad (PCA) para reducir el uso de recursos y mejorar el rendimiento de procesamiento
-
 7. Métodos de aprendizaje (KNN, Regresión Multilineal) para determinar variables y grupos que nos lleven un correcto analisis y resultados esperados.
-
 8. Visualización usando gráficas y tablas de datos
 
 ¿Qué hemos obtenido?

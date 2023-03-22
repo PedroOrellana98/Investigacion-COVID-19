@@ -1,4 +1,4 @@
-# Investigación COVID-19
+# Investigación: Valores estadísticos sobre la propagación del virus COVID-19 y cifras de Mortalidad.
 ### Proyecto de investigación estadístico sobre el virus actual covid-19
 
 Dentro de este archivo se explicará el proceso que hemos llevado a cabo para realizar nuestra investigación sobre las causas de muerte por COVID-19 y cuáles son los factores de riesgo.
